@@ -1,2 +1,2 @@
 # Bash-File
-Con este script sabrás información sobre tu sistema
+Repositorio creado para subir scripts útiles puede que le sirva a alguien :p 
